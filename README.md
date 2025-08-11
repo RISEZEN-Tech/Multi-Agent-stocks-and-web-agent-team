@@ -1,15 +1,15 @@
 # 💹 Multi-Agent Financial & Web Analysis Tool
 
 A Streamlit-based application that combines the power of Groq AI agents to search the web, fetch the latest news, and analyze financial data in real time.
-It integrates multiple tools — Google Search, DuckDuckGo, and Yahoo Finance — to provide structured, source-backed insights.
+It integrates multiple tools, Google Search, DuckDuckGo, and Yahoo Finance, to provide structured, source-backed insights.
 
 # 🚀 Features
 
-Web Agent — Searches the web for general information using DuckDuckGo.
-News Agent — Finds the latest news in English & French using Google Search.
-Finance Agent — Retrieves stock prices, analyst recommendations, fundamentals, and company info from Yahoo Finance.
-Multi-Agent Team Mode — Combines News & Finance agents for comprehensive results.
-Clean, structured output — Uses tables and source links for better readability.
+Web Agent - Searches the web for general information using DuckDuckGo.
+News Agent - Finds the latest news in English & French using Google Search.
+Finance Agent - Retrieves stock prices, analyst recommendations, fundamentals, and company info from Yahoo Finance.
+Multi-Agent Team Mode - Combines News & Finance agents for comprehensive results.
+Clean, structured output - Uses tables and source links for better readability.
 
 # 🛠️ Tech Stack
 
